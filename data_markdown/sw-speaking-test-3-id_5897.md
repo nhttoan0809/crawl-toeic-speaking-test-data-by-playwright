@@ -1,0 +1,41 @@
+# Sw Speaking Test 3
+
+## 1. Read a Text Aloud
+
+> Read the text aloud
+
+> Good afternoon, everyone, and welcome to the county fair! It's wonderful to have you here today as we celebrate the 120th anniversary of our city. We commemorate this day with great pride. Please make sure you visit the exhibits and game booths. Later today there will be competitive events, such as our famous pie-baking contest. I strongly suggest that you get over to the pie table early, or there might not be anything left. It is also my pleasure to introduce you to our mayor, Mr. James Moon. Mr. Moon will lead us in singing our national anthem. Then we’ll begin the festivities.
+
+> Read the text aloud
+
+> Are you ready for an adventure? Extreme Sports Center offers the latest in adventurous outdoor sports—skydiving, hang gliding, scuba diving, or rock climbing. We can expedite the process of getting you a scuba diving permit and train you to dive in just a few intensive sessions. Our specialized training sessions with expert instructors will give you all the basics. We also organize packages for extreme sport vacations. So wherever you want to go, we’ll take you there! Go Extreme!
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image49.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image1.png)
+
+## 3. Respond to Questions
+
+Imagine that a European marketing firm is doing research in your country. You have agreed to participate in a phone survey about how people spend their free time.
+
+**Question 5:** What is your favorite thing to do when you have free time?
+
+**Question 6:** How much free time do you have during the week, and where do you spend your free time?
+
+**Question 7:** How do you think the quality of your activities during your free time could be improved?
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image31.png)
+
+Respond to questions using the information providedWhat you’ll hearQuestion 8: Hi. This is Martha in the Public Relations Office. I’m supposed to pick up Mr. Green when he arrives. Can you tell me the exact date and time of his arrival?Question 9: I’m also supposed to transport him to his lunch with the Board of Directors. If I pick him up at the office at 12:15, would that be early enough?Question 10: What about after lunch? Will he be needing transportation to any other place that afternoon or evening?
+
+## 5. Express an Opinion
+
+Do you agree or disagree with the following statement? “It’s more important to eat a good diet than to exercise a lot.” Support your choice with reasons and details.
+
