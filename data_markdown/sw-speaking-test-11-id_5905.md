@@ -1,0 +1,39 @@
+# Sw Speaking Test 11
+
+## 1. Read a Text Aloud
+
+> Good afternoon everybody, and thank you for flying with West Air. My name is Paula Griggs, and I’m the head flight attendant on today’s aircraft. If you have any questions during your flight, please don't hesitate to ask me or one of the other attendants for assistance. The pilot is preparing the plane for takeoff, so this is an excellent opportunity to review the in-flight safety guidelines. Please take the time to study the material stored in front of your seat. Thank you.
+
+> If you're ever in the mood for tasty Italian food, then you should head down to Maria’s, the new restaurant down on the waterfront. Having only opened for business last month, we have quickly established ourselves as one of the most popular family restaurants in the area. With our amazing range of delicious dishes, wonderful atmosphere and surprisingly affordable prices, you'll never want to eat anywhere else. We also have a special children's menu which your little ones will just love! Call us now at 354-9082 to make a reservation.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image39.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image46.png)
+
+## 3. Respond to Questions
+
+Respond to questions
+
+Imagine that a British marketing firm is doing research in your country. You have agreed to participate in a telephone interview about cell phones.
+
+**Question 5:** How much did you pay for your cell phone, and how old is it?
+
+**Question 6:** What's the most important feature you look at when you choose a new cell phone?
+
+**Question 7:** What do you like or dislike about using your cell phone and why?
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image10.png)
+
+Respond to questions using the information providedExcuse me, my name is Jenny Robson and I’m a professor at the Swanback Community College. I’m interested in taking my first-year class along to see the arts and culture festivals. I just have a couple of questions about the event. Question 8: When is the event being held this year and what time does it start? Question 9: I heard Ruth Miller is making the opening speech this year. Is this correct? Question 10: My students will have to leave the festival after lunch to participate in another class. What parts of the afternoon program are they likely to miss?
+
+## 5. Express an Opinion
+
+Some people think that all young people should be able to attend college for free. What is your opinion about free education? Support your answers with reasons and details.
+

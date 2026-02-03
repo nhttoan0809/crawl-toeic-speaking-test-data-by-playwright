@@ -27,7 +27,68 @@ Imagine that an American marketing firm is doing research in your country. You h
 > [!WARNING]
 > **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
 
-Respond to questions using the information providedDanville City ToursAll tours leave from the front of the Piedmont Hotel. Reservations must be made in advance by calling the Tour Office at 593-555-9694. Cost: $75 (adults), $50 (children under 12, must be accompanied by an adult).10:0010:00-11:0011:0011:00-1:001:00-2:002:00-3:303:30-5:005:156:00Bus leaves from the main entrance of the hotelBus tour of downtown DanvilleArrive at Danville Museum of HistoryGuided museum tourLunch at the museum cafeWalking tour of Danville City Park and GardensBus tour of Danville waterfrontArrive back at the Piedmont HotelOptional dinner at the hotel**Must be reserved and paid for when you book your tour tickets. Add $25 per person tothe cost of your tour ticket.What You’ll HearMan: Hello. I’m interested in taking a tour of Danville, but I’m afraid it might be a bit too expensive.Question 8: Man: Can you tell me how much it costs to take the tour?Question 9: Man: I heard that the tour includes dinner as well as lunch. Is that correct?Question 10: Man: Does the tour take place mostly in the morning, or will we also visit some places after lunch?
+Respond to questions using the information provided
+
+Danville City Tours
+
+All tours leave from the front of the Piedmont Hotel. Reservations must be made in advance by calling the Tour Office at 593-555-9694. Cost: $75 (adults), $50 (children under 12, must be accompanied by an adult).
+
+
+	
+		
+			
+			10:00
+
+			10:00-11:00
+
+			11:00
+
+			11:00-1:00
+
+			1:00-2:00
+
+			2:00-3:30
+
+			3:30-5:00
+
+			5:15
+
+			6:00
+			
+			
+			Bus leaves from the main entrance of the hotel
+
+			Bus tour of downtown Danville
+
+			Arrive at Danville Museum of History
+
+			Guided museum tour
+
+			Lunch at the museum cafe
+
+			Walking tour of Danville City Park and Gardens
+
+			Bus tour of Danville waterfront
+
+			Arrive back at the Piedmont Hotel
+
+			Optional dinner at the hotel*
+			
+		
+	
+
+
+*Must be reserved and paid for when you book your tour tickets. Add $25 per person to the cost of your tour ticket.
+
+What You’ll Hear
+
+Man: Hello. I’m interested in taking a tour of Danville, but I’m afraid it might be a bit too expensive.
+
+Question 8: Man: Can you tell me how much it costs to take the tour?
+
+Question 9: Man: I heard that the tour includes dinner as well as lunch. Is that correct?
+
+Question 10: Man: Does the tour take place mostly in the morning, or will we also visit some places after lunch?
 
 ## 5. Express an Opinion
 

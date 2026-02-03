@@ -1,0 +1,41 @@
+# Sw Speaking Test 23
+
+## 1. Read a Text Aloud
+
+> Do you own a small business? If so, consider hiring Butler Cleaning Services. Whether you’re looking for regular maintenance or just need a single visit, we can help. Our expert cleaning staff will remove dirty, dust, and clutter from your workplace. Visit our Web site to learn more about Butler’s affordable services.
+
+> Are you looking to get the most out of this summer? Howard Home Improvement Solutions has top-quality grills, decking, and pool equipment. We have everything you need for summertime fun at home. Come visit us and talk to one of our staff members today.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image204.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image199.png)
+
+## 3. Respond to Questions
+
+Imagine that a marketing firm is doing research in your area. You have agreed to participate in a telephone interview about vending machines, which are machines that sell snacks and other products.
+
+**Question 5:** How often do you make purchases at vending machines, and when was the last time you used one?
+
+**Question 6:** Do you think there should be more vending machines at your school or workplace? Why or why not?
+
+**Question 7:** Which of the following products would you be MOST likely to buy from a vending machine? Why?Healthy snacks
+
+Coffee
+
+Ice cream
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image149.png)
+
+Question 8: What is the date of the conference, and where is it being held?Question 9: I assume I’ll have to bring money for lunch. Is that right?Question 10: I especially enjoy attending workshops. Could you give me all the details of the workshops that will be held at the conference?
+
+## 5. Express an Opinion
+
+What are some advantages of reading customer reviews when deciding which products to buy?Use specific reasons and examples to support your opinion.
+

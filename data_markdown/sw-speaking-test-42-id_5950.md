@@ -1,0 +1,37 @@
+# Sw Speaking Test 42
+
+## 1. Read a Text Aloud
+
+> Elk Electronics is celebrating ten years in business. All day on Friday, we’ll be offering great deals on the top brands. Come in for low prices on televisions, cameras, and computers. If you mention this radio advertisement, you’ll receive additional savings on all your purchases. See you on Friday at Elk Electronics!
+
+> Welcome to the Butterfly Garden at Lewis Park. Our grounds are visited by some of the largest butterfly populations in North America. Fortunately, the weather is sunny and warm today, creating the ideal climate for these insects to be active. Please remember to stay on the trail, follow the instructions of your guide, and avoid touching the butterflies.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image62.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image184.png)
+
+## 3. Respond to Questions
+
+Imagine that you are talking to a new neighbor on the telephone. You are talking about live music in your area.
+
+**Question 5:** How often do you go out to see musicians perform live, and when was the last time you saw a performance?
+
+**Question 6:** Where can I buy tickets to local concerts, and are they very expensive?
+
+**Question 7:** Could you tell me about some events or festivals in the area where live music is performed?
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image2.png)
+
+Hi, I’m attending the Small Business Owners’ Conference, but I lost my copy of the schedule. I was hoping you could answer some questions for me.Question 8: Who’s giving the keynote speech, and what’s the title of it?Question 9: I have another commitment in the evening, so I think I’ll have to leave the conference at five P.M. Can you tell me what I’d miss if I leave at five P.M.?Question 10: I heard Sonia Pinto will be leading a couple of the sessions.Can you give me all the details of the sessions Ms. Pinto will be presenting?
+
+## 5. Express an Opinion
+
+Would you prefer to work during specific hours established by your employer or set your own work schedule? Why?Give reasons or examples to support your opinion.
+

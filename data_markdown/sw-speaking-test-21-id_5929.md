@@ -1,0 +1,41 @@
+# Sw Speaking Test 21
+
+## 1. Read a Text Aloud
+
+> You’ve reached La Palma Community Center. If you would like to know more about our scheduled events, upcoming activities, and ongoing classes, please press one. To reserve one of our event rooms, press two. Or, remain on the line to be connected to the front desk. Thank you.
+
+> Thank you for calling Mama’s Pizza restaurant. We have the best pizzas and pastas in town. For your convenience, customers can now place orders on our Web site. Check it out now if you prefer not to wait. Otherwise, an employee will be right with you to take your delivery order. Be sure to ask about our deals on meatballs, chicken wings, and fries.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image102.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image105.png)
+
+## 3. Respond to Questions
+
+Imagine that a career center is doing research in your area. You have agreed to participate in a telephone interview about work and school.
+
+**Question 5:** How many hours a day do you work or go to school, and on what days of the week?
+
+**Question 6:** When did you last take a vacation, and how long did it last?
+
+**Question 7:** Which of the following would be most important to you in a job, and why?Interesting tasks
+
+Short distance from work to home
+
+Opportunities to be promoted to higher positions
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image8.png)
+
+Question 8: What is the cheapest restaurant?Question 9: I heard that your Greek restaurant has recently re-opened. Is that correct?Question 10: I have two children. Can you give me all the information about the restaurants that offer kids’ meals?
+
+## 5. Express an Opinion
+
+Should parents help their children choose a field of study? Why or why not?Give reasons and examples to support your opinion.
+

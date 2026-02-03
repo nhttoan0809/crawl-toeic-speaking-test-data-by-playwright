@@ -1,0 +1,39 @@
+# Sw Speaking Test 7
+
+## 1. Read a Text Aloud
+
+> Hawthornes Coffee is now the most popular coffee-house chain in the country. To celebrate this achievement, all Hawthorne’s Coffee locations are offering a special deal for customers. During the month of June, when you buy any Hawthorne's Coffee beverage, you'll receive a second one at half price. That's right — buy any beverage and get half off the second one! This great deal is available at every Hawthorne's Coffee location. Visit one in your area today!
+
+> Attention, employees. The Northview parking lot will be closed next week for some scheduled maintenance work. The Southside lot, as well as Edgewood lots A and B, will remain open. However, we realize more space may be needed. The shopping mall across the street has given us permission to use any of its parking lots until our maintenance work on the Northview lot is completed. Please direct your questions on this issue to Sue Everton in Human Resources at extension 1-1-5.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image18.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image56.png)
+
+## 3. Respond to Questions
+
+Respond to questions
+
+Imagine that a British marketing firm is doing research in your country. You have agreed to participate in a telephone interview about how you use your vacation time.
+
+**Question 5:** If you could take a vacation next week, where would you go?
+
+**Question 6:** How long do you usually spend on vacation, and who do you go with?
+
+**Question 7:** When you go on vacation, do you plan your time thoroughly or do you go without many plans? Describe your style of traveling.
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image29.png)
+
+Responds to questions using the information providedGood morning. I’m Sandra Monaco from the personnel department, and I didn’t get a copyof the Employee Awards Ceremony schedule. Can you tell me about it?Question 8: Where is the event being held and what time should I get there? Question 9: As far as I know, the CEO is supposed to be the first speaker, isn’t he? Question 10: I heard that two different types of employee awards are going to be presented. Could you tell me about the specific awards.
+
+## 5. Express an Opinion
+
+Many people feel that taking time to relax is the key to being productive at work and at home. How do you feel about taking time to relax? Does it make people more productive? Use reasons and examples to support your opinion.
+

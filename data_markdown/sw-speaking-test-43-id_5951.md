@@ -1,0 +1,41 @@
+# Sw Speaking Test 43
+
+## 1. Read a Text Aloud
+
+> Good afternoon, listeners! Here’s the latest weather update. Earlier today, we reported a thirty percent chance of thunderstorms. Luckily, the possibility of rain has passed, and it will be sunny, cool, and dry all afternoon. If you’re going out tonight, you won’t need an umbrella after all.
+
+> Welcome, everyone, to the Mason Art Museum. Before the exhibition officially opens, we’d like to introduce you to the artist behind the masterpieces you see here. For these works, local artist Tom Bray used a combination of paint, metal, and clay. Tom focused on the theme of nature while creating these sculptures.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image131.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image235.png)
+
+## 3. Respond to Questions
+
+Imagine that your town council is conducting research. You have agreed to participate in a telephone interview about tourism in your area.
+
+**Question 5:** Who was the last person who visited you from out of town, and were they interested in tourist activities?
+
+**Question 6:** If a tourist asked you for a dining recommendation in the area, what would you tell them? Why?
+
+**Question 7:** Which of the following features of your area do you think is most likely to attract tourists? Why?Historical landmarks
+
+Outdoor activities
+
+Art and culture
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image125.png)
+
+Hi, it’s Tony. I don’t have my schedule for tomorrow, so I was hoping you’d be able to give me some information.Question 8: What’s the first thing on my schedule, and what time does it start?Question 9: I remember that I have an important meeting with my accountant tomorrow.I’m meeting with my accountant right before lunch, right?Question 10: I know I have to go out to some photo shoots tomorrow.Can you give me all of the details about the photo shoots on my schedule?
+
+## 5. Express an Opinion
+
+Which do you think provides more leadership opportunities for employees: a large company or a small company? Why?Give reasons or examples to support your opinion.
+

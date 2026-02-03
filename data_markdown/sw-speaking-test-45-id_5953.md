@@ -1,0 +1,43 @@
+# Sw Speaking Test 45
+
+## 1. Read a Text Aloud
+
+> Hello. You’ve reached Aurora Bakery. The bakery is open from seven A.M. to six P.M. every day. At Aurora, we offer pastries, cakes, and specialty desserts for all occasions. To find out more about our selections, please call back during business hours or visit our Web site. Have a wonderful day.
+
+> Today on The Fitness Edge Program, our focus is on running and jogging. We’ll talk about choosing the proper shoes, planning your route, and warming up for your run. Susan Bennet, an experienced marathon runner, will share some advice about staying motivated while training. After that, she’ll demonstrate some excellent stretching exercises.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image40.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image148.png)
+
+## 3. Respond to Questions
+
+**Question 5:** Where do you live, and how long does it take to travel from your home to work or school?
+
+**Question 6:** What is one of your favorite places for entertainment in your area, and how often do you go there?
+
+**Question 7:** Which of the following factors would be most important to you when moving to a new location? Why?Access to public transportation
+
+Access to natural areas
+
+Access to shopping and restaurants
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/extra/image101.png)
+
+Hi, this is James Scott. I’m running a bit late, and I don’t have today’s schedule with me. I have some questions about it.Question 8: I know there will be a welcome reception for the new interns this morning. What time will that start, and where will it be held?Question 9: I’m having lunch with Ellen Lee, the company director, today. We’re having lunch at Barry’s Café, right?Question 10: I know I have a couple of phone conferences today. Can you give me all the details for those phone conferences?
+
+## 5. Express an Opinion
+
+Which of the following is the BEST way for a high school to improve the quality of its education?Choose ONE of the options provided below and give reasons or examples to support your opinion.Provide more training to teachers
+
+Offer more one-on-one instruction or tutoring
+
+Give students more homework
+

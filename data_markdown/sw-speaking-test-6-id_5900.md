@@ -1,0 +1,39 @@
+# Sw Speaking Test 6
+
+## 1. Read a Text Aloud
+
+> At this time, Air Pacifica flight 8-1-8 to Taipei is ready to begin boarding. I'd like to ask all passengers seated in first class to please come forward to board at this time. Once the first-class passengers are onboard, we'll call for the remaining passengers by seat number. Make sure to have your boarding pass out, and please show your passport or other valid photo ID to the boarding agent. Again, we're now starting the boarding process for Air Pacifica flight 8-1-8 to Taipei.
+
+> Do you like to keep up with events happening in your world? If so, the Daily View is your source for both local and international news. For nearly forty years, the Daily View has been bringing reliable and award-winning news coverage to people throughout the country. Business and economy, entertainment, sports, weather,... we cover it all and much more. Get your year’s subscription to the Daily View today for the low price of $19.95. You'll be glad you did.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image42.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image50.png)
+
+## 3. Respond to Questions
+
+Respond to questions
+
+Imagine that a research firm is doing a telephone survey of people in your city. You have agreed to answer some questions about sports.
+
+**Question 5:** What sports do you enjoy playing?
+
+**Question 6:** How often do you usually play sports?
+
+**Question 7:** Do you think it is important for children to play sports? Why or why not?
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image4.png)
+
+Respond to questions using the information providedHi. I'm interested in some of the city tours that your company is offering during the month ofMay. I saw your advertisement, but I'd like to ask you for some additional information, if youdon’t mind.Question 8: When is the tour that goes to some of the city’s parks, and what is its title?Question 9: I think 4 tours are offered and they all cost 15 dollars. Is that right? Question 10: I’d really like to participate in all of the tours you’re offering, but my schedule won’t allow it. Instead, I’m trying to decide between the “City Science” and “Nature in the City” tours. Could you describe these in detail?
+
+## 5. Express an Opinion
+
+Imagine that there is a plan to build a large shopping mall in your neighborhood. Do you support or oppose this plan? Why? Use specific reasons and examples to support your opinion.
+

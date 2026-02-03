@@ -1,0 +1,39 @@
+# Sw Speaking Test 10
+
+## 1. Read a Text Aloud
+
+> Welcome, everyone. Thanks for coming to this meeting. I'm happy to announce the launch of a new company-wide problem-solving workshop. All employees will participate in this program. Now, please allow me to introduce the workshop leaders: Lynn Ashcroft from Accounting, Kellie-Ann Lewis in Sales, and Daniel May from Marketing. I'll let them tell you a little about what to expect from the problem-solving workshop.
+
+> Members of the press, Dawson Technologies is announcing a product demonstration to take place on Friday, December 3rd. The purpose of this event will be to introduce Dawson's latest innovation. It’s a phone, a daily planner, an email system, and a music player all in one. Those who attend the demonstration will have the chance to operate our new product. If you would like to attend, please contact Karl Johnson in our Public Relations office at 2014-0019.
+
+## 2. Describe a Picture
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image19.png)
+
+![Image](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image38.png)
+
+## 3. Respond to Questions
+
+Respond to questions
+
+Imagine that an American marketing firm is doing research in your country. You have agreed to participate in a telephone interview about shopping for clothing.
+
+**Question 5:** How often do you shop for new clothing and who do you usually go with?
+
+**Question 6:** What aspect of clothes shopping do you find most pleasant?
+
+**Question 7:** Do you prefer shopping for clothing at a store or online and why?
+
+## 4. Respond to Questions using Information Provided
+
+> [!WARNING]
+> **CHECK THIS SECTION MANUALLY**. The content may contain complex tables or schedules that require human verification.
+
+![Schedule](https://s4-media1.study4.com/media/toeic_sw_tests/speaking/image15.png)
+
+Respond to questions using the information providedHello, my name is Bob Harris and I’m interested in registering for the seminar with Todd Willis. Before I sign up, though, I have a few inquiries.Question 8: What day is the seminar on, and when does it start? Question 9: I think I saw that the session on resume writing was scheduled to start right after lunch. That’s right, isn’t it? Question 10: I have an important appointment in the morning that day, so I’ll probably only be able to attend in the afternoon. What session will I be able to participate in?
+
+## 5. Express an Opinion
+
+Some people like working at home better than working at the office. Which work environment do you prefer and why?
+
