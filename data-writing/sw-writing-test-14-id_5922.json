@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image49.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image54.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image38.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image40.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image43.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Cameron Contos, Passageways Travel Company\nTo: Customer list\nSubject: A great vacation package\nSent: December 22, 9:23 A.M.\nDear Passageways customers,\nYou are our valued clients and we want to share a great travel package with you. We are offering an unbelievable, once in a lifetime opportunity for you to explore the Galapagos Islands. The first 200 customers who respond to this advertisement will receive a 10% discount on their hotel fares.\nDirections: Respond to the e-mail as if you are a Passageways Travel customer. In your e-mail, ask TWO questions and make ONE request regarding the travel package.",
+      "Respond to an email\nFrom: A. Chae, General Company\nTo: Fine Prints\nSubject: Printing accident\nSent: May 2, 10:32 A.M.\nDear Fine Prints,\nYour company recently prepared letterheads for us. However, I've just noticed that you printed our old address by mistake. I have to send out hundreds of letters to our customers for a new promotion. Please e-mail me about this as soon as possible.\nThank you,\nA. Chae\nDirections: Respond to the e-mail as if you are an employee at Fine Prints. In your e-mail, make TWO suggestions for how to handle the problem and provide ONE piece of information you think will be useful."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nWhat do you think are the most important characteristics for a job you have had or you want to have? Use specific details and examples to support your opinion."
+  }
+}

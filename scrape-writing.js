@@ -1,6 +1,6 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
-const urls = require('./urls');
+const urls = require('./urls-writing');
 
 (async () => {
     // Ensure data directory exists
@@ -16,7 +16,7 @@ const urls = require('./urls');
             '--disable-setuid-sandbox'
         ]
     });
-    
+
     // Check if state.json exists
     let context;
     if (fs.existsSync('state.json')) {
@@ -65,14 +65,14 @@ const urls = require('./urls');
             });
 
             if (checkboxIds.length === 0) {
-                 console.error(`No checkboxes found for ${url}`);
-                 continue;
+                console.error(`No checkboxes found for ${url}`);
+                continue;
             }
 
             const queryString = checkboxIds.map(id => `part=${id.replace('part-', '')}`).join('&');
             const baseUrl = `https://study4.com/tests/${testId}/practice/`;
             const finalUrl = `${baseUrl}?${queryString}`;
-            
+
             console.log(`Generated Real Exam URL: ${finalUrl}`);
 
             // --- STEP 3 LOGIC: Get all data ---
@@ -81,81 +81,75 @@ const urls = require('./urls');
 
             // Execute extraction logic in the page context
             const extractedData = await page.evaluate(() => {
-                const data = {};
                 const urlParams = new URLSearchParams(window.location.search);
                 const partIds = urlParams.getAll('part');
+                const tabContent = document.querySelector('#pills-tabContent');
 
-                if (partIds.length >= 5) {
-                    // Item 1: div#partcontent-XXXXX - text paragraphs
-                    const item1Id = partIds[0];
-                    const item1 = document.querySelector(`div#partcontent-${item1Id}`);
-                    if (item1) {
-                         const paragraphs = Array.from(item1.querySelectorAll('div.context-content.text-highlightable > div > p'));
-                         data['Item 1'] = paragraphs.map(p => p.innerText.trim()).filter(text => text.length > 0 && !text.includes('Read a text aloud') && !text.includes('Viết ghi chú / dàn ý'));
-                    }
-
-                    // Item 2: div#partcontent-XXXXX - images
-                    const item2Id = partIds[1];
-                    const item2 = document.querySelector(`div#partcontent-${item2Id}`);
-                    if (item2) {
-                        const images = Array.from(item2.querySelectorAll('img'));
-                        data['Item 2'] = images.map(img => img.src);
-                    }
-
-                    // Item 3: div#partcontent-XXXXX - one text content
-                    const item3Id = partIds[2];
-                    const item3 = document.querySelector(`div#partcontent-${item3Id}`);
-                    if (item3) {
-                         const textContainer = item3.querySelector('div.context-content.text-highlightable > div');
-                         if (textContainer) {
-                             data['Item 3'] = textContainer.innerText.trim();
-                         }
-                    }
-
-                    // Item 4: div#partcontent-XXXXX - one image and text
-                    const item4Id = partIds[3];
-                    const item4 = document.querySelector(`div#partcontent-${item4Id}`);
-                    if (item4) {
-                        const img = item4.querySelector('img');
-                        const textContainer = item4.querySelector('div.context-content.text-highlightable > div');
-                        data['Item 4'] = {};
-                        if (img) data['Item 4']['image'] = img.src;
-                        if (textContainer) data['Item 4']['text'] = textContainer.innerText.trim();
-                    }
-
-                    // Item 5: div#partcontent-XXXXX - one text content
-                    const item5Id = partIds[4];
-                    const item5 = document.querySelector(`div#partcontent-${item5Id}`);
-                    if (item5) {
-                        const textContainer = item5.querySelector('div.context-content.text-highlightable > div');
-                        if (textContainer) {
-                            data['Item 5'] = textContainer.innerText.trim();
-                        }
-                    }
-                    return data;
-                } else {
-                    return { error: 'Not enough part parameters found' };
+                if (!tabContent) {
+                    console.error("Không tìm thấy #pills-tabContent");
                 }
+
+                // Đối tượng JSON duy nhất để chứa kết quả
+                const finalData = {};
+
+                partIds.forEach((partId, index) => {
+                    const partElement = tabContent.querySelector(`#partcontent-${partId}`);
+                    if (!partElement) return;
+
+                    const itemKey = `Item${index + 1}`;
+
+                    if (index === 0) {
+                        // Item 1: Danh sách các đường dẫn ảnh
+                        const images = Array.from(partElement.querySelectorAll('.test-questions-wrapper > div .question-twocols-left img'))
+                            .map(img => img.src);
+                        finalData[itemKey] = {
+                            type: "images",
+                            content: images
+                        };
+
+                    } else if (index === 1) {
+                        // Item 2: Danh sách các email (mỗi email là một mảng các dòng văn bản)
+                        const emails = Array.from(partElement.querySelectorAll('.test-questions-wrapper > div .question-twocols-left div > div > div'))
+                            .map(block => Array.from(block.querySelectorAll('p')).map(p => p.innerText.trim()).filter(t => t));
+                        const content = emails.map(email => email.join('\n'));
+                        finalData[itemKey] = {
+                            type: "emails",
+                            content
+                        };
+
+                    } else if (index === 2) {
+                        // Item 3: Văn bản tổng hợp
+                        const textBlock = partElement.querySelector('.test-questions-wrapper > div .question-twocols-left div > div > div');
+                        const paragraphs = textBlock ? Array.from(textBlock.querySelectorAll('p')).map(p => p.innerText.trim()).filter(t => t) : [];
+                        const content = paragraphs.join('\n');
+                        finalData[itemKey] = {
+                            type: "text_block",
+                            content
+                        };
+                    }
+
+                });
+                return finalData;
             });
 
-            // Extract slug (e.g., toeic-sw-speaking-test-1)
+            // Extract slug (e.g., toeic-sw-writing-test-1)
             const slugMatch = url.match(/\/([^\/]+)\/?$/);
             let slug = slugMatch && slugMatch[1] ? slugMatch[1] : `test-${testId}`;
             // Remove 'toeic-' prefix if present to match user preference
             slug = slug.replace(/^toeic-/, '');
 
-            // Check if folder data exists
-            if (!fs.existsSync('data')) {
-                fs.mkdirSync('data');
+            // Check if folder data-writing exists
+            if (!fs.existsSync('data-writing')) {
+                fs.mkdirSync('data-writing');
             }
 
             // Save data
-            const outputPath = `data/${slug}-id_${testId}.json`;
+            const outputPath = `data-writing/${slug}-id_${testId}.json`;
             fs.writeFileSync(outputPath, JSON.stringify(extractedData, null, 2));
             console.log(`Saved data to ${outputPath}`);
-            
+
             // Be nice to the server
-            await page.waitForTimeout(1000); 
+            await page.waitForTimeout(1000);
 
         } catch (error) {
             console.error(`Error processing ${url}:`, error);

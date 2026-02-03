@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image110.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image201.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image11.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image186.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image187.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Barry Cole, Accounting\nTo: Jim Slate, Assistant Manager, Accounting\nSubject: Computer problems\nSent: March 10, 3:58 P.M.\nMr. Slate:\nI have been having problems with my office computer recently. I requested assistance from the help desk several times but they have not fixed it yet. Could you please help me find a way to solve this problem?\nThank you,\nBarry\nRespond to the e-mail as if you are Mr. Slate. In your e-mail, ask ONE question and make TWO suggestions about getting the computer fixed.",
+      "Direction: Read the e-mail below.\nFrom: Tradewinds Apartments\nTo: All residents\nSubject: Residents' meeting\nSent: September 3, 12:28 P.M.\nDear Tradewinds residents,\nThis message is to remind you that we will be having our monthly meeting next week. To make the meeting more beneficial for all, please e-mail us with some suggestions for topics to discuss and let us know if you are going to attend the meeting or not.\nThank you.\nRespond to the e-mail as if you are a resident at Tradewinds Apartments. In your e-mail, suggest TWO topics and ask ONE question about the meeting."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "To lead a business to success, there are many things to consider. What do you think are the main factors in running a successful business? Give specific reasons and examples."
+  }
+}

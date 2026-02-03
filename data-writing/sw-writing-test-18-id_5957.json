@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image51.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image133.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image80.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image116.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image224.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFROM: One Earth Electronics\nTO: Recent customers\nSUBJECT: Service follow-up\nSENT: August 30, 4:30 P.M.\nDear customer,\nThank you for contacting our online support service for help with your electronic device. Please take a moment to tell us about your experience. Your feedback and suggestions are valuable to us.\nDirections: Respond to the e-mail. In your e-mail, make TWO suggestions and ask ONE question.",
+      "Direction: Read the e-mail below.\nFROM: M. Lee\nTO: Explore The City Tour Company\nSUBJECT: Sightseeing tours\nSENT: June 14, 9:46 A.M.\nI will be staying in your city for five days in July. I’d like to see some interesting places during that time. Could you please give me some information about the sightseeing tours that your company offers?\nDirections: Respond to the e-mail as if you work for a tour company. In your e-mail, give TWO pieces of information and ask ONE question."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you think it is better for an individual to have a role model who is a celebrity, or a role model who the individual knows personally? Why? Give reasons and examples to support your opinion."
+  }
+}

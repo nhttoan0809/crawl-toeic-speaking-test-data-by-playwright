@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image1.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image53.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image209.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image120.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image152.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Jennifer Adams\nTo: Customer Service\nSubject: Paint Availability\nHello,\nI’m planning to repaint my living room this weekend, and I’d like to know if you carry the “Fresh White” paint from the BrightHome brand. Also, do you offer delivery for paint orders?\nThank you,\nJennifer\nDirections: Respond to the e-mail as if you work at the home improvement store. In your e-mail, provide TWO pieces of information and ask ONE question.",
+      "Direction: Read the e-mail below.\nFrom: Isabella Martin\nTo: Office Manager\nSubject: Request for Office Supplies\nDear Office Manager,\nI hope this email finds you well. I have recently run out of several office supplies and would appreciate it if you could help me with restocking. Could you please let me know which supplies are currently available and if there are any new items we should be aware of?\nThank you for your assistance.\nBest regards,\nIsabella Martin\nDirections: Respond to the e-mail as if you are the Office Manager. In your e-mail, give TWO pieces of information and make ONE request."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "What do you think are the most important characteristics for a job you have had or you want to have? Use specific details and examples to support your opinion."
+  }
+}

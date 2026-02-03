@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image36.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image69.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image147.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image37.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image154.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Daniel Adams\nTo: IT Support Team\nSubject: Urgent: Software Issue\nDear IT Support Team,\nI’m having an issue with the accounting software on my computer. It crashes a few seconds after I try to open it, which is delaying my work. Could you please tell me what steps I should take to fix this, or if you need to access my computer remotely to solve the problem?\nThank you for your prompt attention to this matter.\nBest regards,\nDaniel Adams\nDirections: Respond to the e-mail as if you are a member of the IT Support Team. In your e-mail, provide TWO pieces of information and make ONE suggestion.",
+      "Direction: Read the e-mail below.\nFrom: Sarah White\nTo: Human Resources Department\nSubject: Annual Leave Request\nDear Human Resources Team,\nI am writing to request annual leave from August 15th to August 22nd. I have checked with my manager, and they have approved the dates. Could you please confirm if there are any forms I need to fill out or procedures I need to follow to finalize this request?\nThank you for your assistance.\nBest regards,\nSarah White\nDirections: Respond to the e-mail as if you are a member of the Human Resources Department. In your e-mail, provide TWO pieces of information and make ONE request."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Which of the following is most important for a team’s success?"
+  }
+}

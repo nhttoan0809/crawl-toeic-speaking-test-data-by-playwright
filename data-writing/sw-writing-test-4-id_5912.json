@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image30.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image4.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image71.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image11.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image50.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Mark Hayes\nTo: Easton Office Supply Company\nSubject: OrderSent: November 30,20—\nI put in a large order for office supplies from your company several weeks ago. I received the order yesterday; however, it was not complete. It did not contain the two boxes of manila envelopes that I ordered. Can you please resolve this problem for me?\nThank you.\nMark Hayes\nDirections: Respond to the e-mail as if you are an employee of the Easton Office Supply Company. In your e-mail, explain TWO problems and make ONE request.",
+      "Respond to an email\nFrom: Mary Wilson\nTo: All staff\nSubject: Tokyo visit\nSent: April 15, 20—\nGreetings to all,\nAs you know, next week we will receive guests from our Tokyo office. I need some ideas for interesting activities and places of interest they should visit. Also, I would like to know if any of you are available to take our visitors out for a meal or to visit some special place.\nThanks for your help.\nMary Wilson\nDirections: Respond to the e-mail as if you are a staff member. In your e-mail, make TWO suggestions and offer to help with ONE task."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Some people prefer to work for a large company, while others prefer to work in a small office. Which size company do you prefer to work in? Use specific examples to support your choice."
+  }
+}

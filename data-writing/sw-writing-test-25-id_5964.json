@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image86.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image168.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image27.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image113.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image31.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: K. Lehmann\nTo: A. Mitra\nSubject: Invitation to give a workshop\nDear Dr. Mitra,\nI enjoyed your workshop at the convention last week. I’d like to invite you to give a similar presentation to the employees at Gammite Enterprises. When would you be available? Also, please let me know what you will need for your presentation.\nKlaus Lehmann\nManager, Gammite Enterprises\nDirections: Respond to the e-mail. In your e-mail, give THREE pieces of information.",
+      "Direction: Read the e-mail below.\nFrom: Premier Landscaping\nTo: Landerson Law Offices\nSubject: Customer satisfaction\nYour office recently stopped using our company for your gardening and landscaping needs. Customer service is very important to us, so we would like to hear from you! Please tell us why you canceled your service and how you think we might better serve our customers in the future.\nDirections: Respond to the e-mail. In your e-mail, provide TWO reasons and make ONE suggestion."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "During a job interview, which is more important: creativity or adaptability? Give reasons and examples to support your opinion."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image130.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image44.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image222.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image220.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image92.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Beth Stewart\nTo: EZ Used Cars\nSubject: Ordering Process\nDear Sir/Madam,\nI have been browsing your site and found a vehicle that I’m interested in. I was wondering about the ordering process but couldn’t find the information I needed on your site. Could you please tell me the best way to get more details on how to order?\nThank you,\nBeth Stewart\nDirections: Respond to the e-mail as if you are a staff member in the used car company. In your e-mail, give ONE piece of information and make TWO requests.",
+      "Direction: Read the e-mail below.\nFrom: David Kim\nTo: Customer Support\nSubject: Trouble Logging In\nHello,\nI’ve been trying to log in to my account for the past two days, but the system keeps saying my password is incorrect. I already tried resetting it, but I still can’t access my account. Could you please help me with this?\nBest regards,\nDavid\nDirections: Respond to the e-mail as if you work in the customer service department of an online learning platform. In your e-mail, make TWO suggestions and ask ONE question."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "What are the advantages and disadvantages of living in many countries over the course of a lifetime? Give reasons and examples to support your opinion."
+  }
+}

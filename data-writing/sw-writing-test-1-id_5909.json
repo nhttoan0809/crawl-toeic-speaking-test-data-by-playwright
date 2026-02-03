@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image17.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image3.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image19.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image41.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image24.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: update@dailyjobseeker.com\nTo: Anna Billings\nSubject: Daily Jobseeker update\nSent: March 14, 20—\nDear Daily Jobseeker subscriber,\nHere is the most recent job opening:\nMarleyhome Inc. is looking for an experienced accountant to fill a vacancy in its Accounting Department. The company needs someone with an accounting degree and at least three years of experience. Contact Ralph Kramer, r_kramer@marleyhome.com.\nDirections: Respond to the e-mail as if you are interested in applying for the position. Make ONE statement about your professional background and TWO requests for information about the job.",
+      "Respond to an email\nFrom: Elisa Hays, Front Desk Supervisor\nTo: Front desk agents, Hotel Mediterraneo\nSubject: Reservation systemSent: December 1, 20—\nIt has come to my attention that several of you have experienced problems with the reservation system recently. In order to address these problems, we need to compile a complete list of the issues that each of you have encountered. Please send me this list at your earliest convenience.\nSincerely,Elisa HaysFront Desk Supervisor\nDirections: Respond to the e-mail as if you are a front desk agent at Hotel Mediterraneo. In your e-mail, describe THREE problems with the reservation system."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Many people enjoy spending time playing and watching sports. Why do you think sports are important to people? Give specific reasons and examples to support your opinion."
+  }
+}

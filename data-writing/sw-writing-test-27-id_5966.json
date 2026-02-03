@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image17.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image118.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image112.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image175.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image76.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Vision Publishing\nTo: Customers\nSubject: Sales\nWe’re Vision Publishing. We are planning to hold a big discount event at the Cosmo mall soon. It will be better for you to book in advance. Only those who have applied in advance can enter the mall and purchase books. We will offer discounts of 5% to 30% on children’s books, travel books, cookbooks, and other types of books.\nDirections: Respond to the e-mail. In your e-mail, ask TWO questions and make ONE request.",
+      "Direction: Read the e-mail below.\nFrom: Beth Stewart\nTo: EZ used cars\nSubject: Ordering process\nDear Sir/Madam,\nI have been using your website and I found a vehicle that I am interested in. I was wondering about the ordering process and have not been able to find the information I need on your site. Could you please tell me the best way to get information regarding your ordering process?\nThank you,\nBeth Stewart\nDirections: Respond to the e-mail as if you are a staff member in the used car company. In your e-mail, give ONE piece of information and make TWO requests."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "What is the best way to learn new skills: receiving on-the-job training or attending outdoor classes? Give reasons and examples to support your opinion."
+  }
+}

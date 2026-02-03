@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image57.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image129.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image126.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image21.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image228.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: George Pinkney\nTo: Social Committee members\nSubject: Meeting\nSent: April 12, 20 -\nIt is time for a meeting of the Social Committee. We need to start planning the annual year-end party. I would like all members of the committee to meet next Friday morning from 9 to 11 in Conference Room A. Please let me know as soon as possible if you are available to attend this meeting.\nThank you.\nGeorge Pinkney\nSocial Committee Chair\nDirections: Respond to the e-mail as if you are a member of the Social Committee. In your e-mail, explain ONE problem and make TWO suggestions.",
+      "Direction: Read the e-mail below.\nFrom: Journal of Business News\nTo: Business professionals\nSubject: Subscribe\nSent: December 2,20-\nDear Business Professional,\nThe Journal Of Business News brings you all the latest news about important developments in the international business world. It is read by thousands of businesspeople just like you in over 40 countries around the world. Subscribe today and receive a 30% discount off the regular price.\nDirections: Respond to the e-mail as if you are a businessperson interested in subscribing to the Journal of Business News. In your e-mail, ask THREE questions."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Some companies push employees to retire after they pass middle age. Others allow employees to stay until they want to retire. Which do you think is better from the company's point of view? Use specific reasons and examples to explain your choice."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image27.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image23.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image52.png",
+      "https://s4-media1.study4.com/media/uploads/editor/study4/2025/12/15/image70.png",
+      "https://s4-media1.study4.com/media/uploads/editor/study4/2025/12/15/image8.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: C, Davis, Customer Affairs Manager, Plus Airlines\nTo: V. Miller\nSubject: Your complaint\nSent: September 4, 2:52 PM.\nDear Ms. Miller:\nI understand you had a problem on the Plus Airlines flight from Moscow to L.A. last Wednesday. Please email me  back with more information about the problem you encountered so that we can handle this issue effectively.\nYours sincerely,\nC. Davis\nDirections: Respond to the email as if you are V. Miller. In your email, provide TWO pieces of information about the flight.",
+      "Respond to an email\nFrom: M. Jackson, Customer Relations Manager, Hartford Importers\nTo: G. Watkins, Purchasing Director, Liam Retailing\nSubject: Your shipment\nSent: November 5, 4:26 P.M.\nDear Mr. Watkins:\nI heard from our customer service team that there are some problems with the shipment of electronic goods we sent you last week. I’m sorry for any inconvenience this has caused. Please let me know more details about the nature of the problems.\nWarm regards,\nM. Jackson\nDirections: Respond to the email as if you are G. Watkins. In your email, explain TWO problems you have experienced with the shipment."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\n“Most people would prefer to work for themselves rather than someone else.” Do you agree with this statement? Use specific reasons and details to explain your opinion."
+  }
+}

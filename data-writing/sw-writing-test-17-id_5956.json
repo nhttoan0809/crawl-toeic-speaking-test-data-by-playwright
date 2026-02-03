@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image55.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image162.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image39.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image109.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image59.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "FROM: HR Department\nTO: All Employees\nSUBJECT: Ideas for annual party\nSENT: October 10th, 2:07 P.M.\nDear colleagues,\nThe annual party will be held at the end of December this year. At this point, we need your ideas and suggestions for the party. Also, feel free to ask any questions you may have about the event.\nThanks!\nMaria\nHR Department\nDirections: Respond to the e-mail. In your e-mail, give ONE piece of information and ask TWO questions.",
+      "Direction: Read the e-mail below.\nFROM: Vishal Shah\nTO: Finance Office\nSUBJECT: Travel reimbursement\nSENT: December 10, 2:11 P.M.\nHello,\nI know that I can be reimbursed for certain business trip costs but not others. I kept records of everything I spent while on business for our company in Tokyo. Could you give me the details on the company policy for getting refunds for the money I spent?\nThank you,\nVishal\nDirections: Respond to the e-mail as if you work in the finance office. In your e-mail, give THREE details."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Many governments fund programs that help protect the environment. In your opinion, is this a good use of government funds? Why or why not? Give reasons and examples to support your opinion."
+  }
+}

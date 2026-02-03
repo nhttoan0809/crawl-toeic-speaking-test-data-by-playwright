@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image75.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image138.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image237.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image137.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image4.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Vishal Shah\nTo: Finance Office\nSubject: Travel reimbursement\nHello,\nI know that I can be reimbursed for certain business trip costs but not others. I kept records of everything I spent while on business for our company in Tokyo. Could you give me the details on the company policy for getting refunds for the money I spent?\nThank you,\nVishal\nDirections: Respond to the e-mail as if you work in the finance office. In your e-mail, give THREE details.",
+      "Direction: Read the e-mail below.\nFrom: Jason Vornas, Best Vacation Rentals\nTo: Pearl Seine\nSubject: Vacation rental inquiry\nThank you for expressing interest in our vacation rental houses. If you provide details about what you’re looking for, we can suggest rental houses that would fit your needs. We’re happy to answer any questions.\nDirections: Respond to the e-mail as if you are looking for a vacation rental house. In your e-mail, give ONE piece of information and ask TWO questions."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Which do you think is more important for a leader: speaking skills or problem-solving skills? Give reasons and examples to support your opinion."
+  }
+}

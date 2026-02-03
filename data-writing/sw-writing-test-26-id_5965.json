@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image117.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image170.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image206.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image13.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image83.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Karen Smith\nTo: Art Club Members\nSubject: Suggestions for Our Art Club\nHello everyone,\nAs we plan for the upcoming year, we would love to hear your suggestions on how we can make our art club even better. What activities or events would you like to see us organize? Please share your ideas.\nBest,\nKaren\nDirections: Respond to the e-mail as if you are a member of the art club. In your e-mail, give THREE suggestions.",
+      "Direction: Read the e-mail below.\nFrom: Belinda Cho\nTo: Tomas Cardenas\nSubject: Client dinner on Friday\nTomas,\nCan you please find and book a suitable restaurant for my meeting with the representatives from Tanaka Corporation? We will go directly to the restaurant after our afternoon meeting, which should finish by 4 P.M.\nThanks,\nBelinda\nDirections: Respond to the e-mail as if you are Tomas Cardenas, Ms. Cho's personal assistant. In your e-mail, provide THREE pieces of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "What is the most important quality in customer service: problem-solving skills, friendliness, or effective communication? Give reasons and examples to support your opinion."
+  }
+}

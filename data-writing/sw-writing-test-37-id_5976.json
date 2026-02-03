@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image230.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image223.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image143.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image33.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image134.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Subaki Tanasha, Sales Manager Assistant\nTo: Suzy Wang, Sales Manager\nSubject: Sales Associate Job Posting\nHi Suzy,\nI’ve been assigned to post the job opening for the Sales Associate position on our company’s website. To make sure we attract the right candidates, could you provide me with some details about the specific qualities and qualifications you’re looking for?\nThank you for your guidance.\nBest regards,\nSubaki Tanasha\nDirections: Respond to the e-mail as if you are Suzy Wang, the Sales Manager. In your e-mail, provide THREE pieces of information.",
+      "Direction: Read the e-mail below.\nFrom: Technical Support Team\nTo: All Employees\nSubject: Internet Access Issues\nHello everyone,\nWe’ve heard that some of you are having trouble with the Internet on company computers. To fix this issue, please let us know if you’ve experienced any problems. Describe what happened and what steps you took before the issue occurred.\nThank you,\nTechnical Support Team\nJennifer White\nDirections: Respond to the e-mail as if you are a staff member in the company. In your e-mail, give TWO pieces of information and ask ONE question."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you agree or disagree with the following statement: Employees should demonstrate a sense of humor in the workplace. Give reasons and examples to support your opinion."
+  }
+}

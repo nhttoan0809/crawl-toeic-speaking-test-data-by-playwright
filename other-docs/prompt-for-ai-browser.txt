@@ -1,0 +1,44 @@
+PROMPT ĐỂ THU THẬP DATA DỰA VÀO AI ASSISTANCE TRÊN CHROME BROWSER
+
+#### PROMPT 1
+
+
+B1: Dựa vào url https://study4.com/tests/5909/practice/?part=14665&amp;part=14666&amp;part=14667 tạo script để lấy các partId 
+
+B2: Tạo query selector đến phần tử có id:pills-tabContent
+
+B3: Với mỗi child items bên trong pills-tabContent sẽ tiếp tục có các cách để inspect element con dựa vào partId để lấy nội dung khác nhau. (Chắc chắn sẽ có 3 element item con) Hãy giúp tôi tạo ra đoạn script để tìm ra nguyên tắc inspect đến tất cả các element item con và tiếp tục lấy các thông tin quan trọng như với mỗi item cần tìm như sau:
+
+Item 1 gồm 5 hình ảnh với các selector như sau:
+
+#partcontent-14665 > div.test-questions-wrapper > div:nth-child(1) > div > div.question-twocols-left > div > div > div > div > p:nth-child(2) > img #partcontent-14665 > div.test-questions-wrapper > div:nth-child(2) > div > div.question-twocols-left > div > div > div > div > p:nth-child(2) > img #partcontent-14665 > div.test-questions-wrapper > div:nth-child(3) > div > div.question-twocols-left > div > div > div > div > p:nth-child(2) > img #partcontent-14665 > div.test-questions-wrapper > div:nth-child(4) > div > div.question-twocols-left > div > div > div > div > p:nth-child(2) > img #partcontent-14665 > div.test-questions-wrapper > div:nth-child(5) > div > div.question-twocols-left > div > div > div > div > p:nth-child(2) > img
+
+Item 2 gồm 2 đoạn văn tượng trưng cho 2 đoạn email với selector mẫu như sau:
+
+#partcontent-14666 > div.test-questions-wrapper > div:nth-child(1) > div > div.question-twocols-left > div > div > div #partcontent-14666 > div.test-questions-wrapper > div:nth-child(2) > div > div.question-twocols-left > div > div > div
+
+Với mỗi selector trên tương ứng cho 1 đoạn email, bên trong mỗi email sẽ là các thẻ p chứa nội dung của email.
+
+Item 3 là một đoạn văn bản có selector như sau:
+
+#partcontent-14667 > div.test-questions-wrapper > div > div > div.question-twocols-left > div > div > div
+
+với bên trong có thể có nhiều thẻ p chứa nội dung của đoạn văn bản.
+
+
+#### PROMPT 2
+
+điều chỉnh script để xuất dữ liệu này ra file JSON
+
+
+#### PROMPT 3
+
+
+Thay vì tạo ra file thì hãy console.log
+
+
+
+#### PROMPT 4
+
+
+Điều chỉnh script để tạo ra định dạng json với 3 item đóng vai trò như 3 key, với mỗi Item bên trong sẽ là nội dung. Khi có 1 object json duy nhất rồi thì thực hiện console.log

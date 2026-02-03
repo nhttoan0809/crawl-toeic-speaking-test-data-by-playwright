@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image77.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image146.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image179.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image68.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image16.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Piero Caggia\nTo: artlessons@ikedasartstudio.com\nSubject: Art lessons\nHello,\nI saw your advertisement about art lessons on the Ikeda’s Art Studio website. I am interested in lessons for my son. Could you tell me about your qualifications and more about the lessons you provide?\nThanks,\nPiero Caggia\nDirections: Respond to the e-mail as if you are the art instructor. In your e-mail, give TWO pieces of information and ONE instruction.",
+      "Direction: Read the e-mail below.\nFrom: SAO Computer Customer Service\nTo: New customer\nSubject: Thank you\nWe would like to thank you for purchasing our computer.\nWe hope that you are satisfied with our product. If you have experienced any problems so far, please contact us via e-mail at sao@sao.com. Thank you!\nDirections: Respond to the e-mail as if you are a customer of SAO Computer Company. In your e-mail, describe TWO problems that you have had with the computer and make ONE request for information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you prefer a teacher with a sense of humor or one who is more serious? Give reasons and examples to support your opinion."
+  }
+}

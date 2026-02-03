@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image69.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image45.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image64.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image67.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image63.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Jenny Cooper, Manager, Hotel Marina\nTo: Marcus Farley\nSubject: Your stay\nSent: March 6, 4:21 PM.\nDear Mr. Farley,\nI hope you enjoyed your recent stay at Hotel Marina. It was a pleasure having you! If you have any advice you would like to give us about our facilities and services, please let me know.\nThank you,\nJenny Cooper\nDirections: Respond to the e-mail as if you are Marcus Farley. In your e-mail, make THREE suggestions about how the hotel could be improved.",
+      "Respond to an email\nFrom: C. Torina, Customer Service Representative\nTo: J. Samuel, Director of Shipping\nSubject: Delivery delay\nSent: June 25, 11:07 A.M.\nI heard from one of our customers, Jenny Smith, that she still hasn't received the wedding invitation cards she ordered. We promised to make this delivery by June 15. She seems to be quite upset. Can you look into this, please?\nDirections: Respond to the e-mail as if you are J. Samuel. In your e-mail, describe TWO steps you will take to handle the situation and make ONE request."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nDo you think it is a good idea for teenagers to have jobs while they are still students? Support your opinion by using specific reasons and details."
+  }
+}

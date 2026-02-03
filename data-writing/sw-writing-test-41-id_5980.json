@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image142.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image79.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image214.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image169.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image45.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: A. Chae, General Company\nTo: Fine Prints\nSubject: Printing accident\nSent: May 2, 10:32 A.M.\nDear Fine Prints,\nYour company recently prepared letterheads for us. However, I've just noticed that you printed our old address by mistake. I have to send out hundreds of letters to our customers for a new promotion. Please e-mail me about this as soon as possible.\nThank you,\nA. Chae\nDirections: Respond to the e-mail as if you are an employee at Fine Prints. In your e-mail, make TWO suggestions for how to handle the problem and provide ONE piece of information you think will be useful.",
+      "Direction: Read the e-mail below.\nFrom: Bill Britten, Teachers' Association Chairman\nTo: TA Members\nSubject: Summer Concert Participant Recruitment\nSent: May 28, 3:45 P.M.\nWe're going to hold our annual summer concert festival from July 7 to 11. If you have any students interested in playing in our orchestra, please give us their names and the instruments they play so they can join in this wonderful event. Please reply by e-mail no later than June 6.\nThanks in advance for your assistance.\nDirections: Respond to the e-mail as if you are a member of the Teachers' Association. In your e-mail, ask TWO questions and give ONE piece of information about the event."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Some people choose to work at one job for a long time. Others prefer to change jobs frequently. Which way do you think is better? Use specific reasons and examples to explain your choice."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image60.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image22.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image13.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image65.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image6.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Samuel GeorgeTo: Janet JonesSubject: Changing banks\nSent: February 23, 20—\nDear Ms. Jones,\nWe understand that you have moved your accounts to another bank. We are very sorry to lose your business. To help us provide better service in the future, would you mind telling us why you made the decision to change banks? Thank you very much.\nSincerely,Samuel GeorgeNational City Bank Customer Service\nDirections: Respond to the e-mail as if you are Janet Jones. In your e-mail, explain ONE problem and make TWO suggestions.",
+      "Respond to an email\nFrom: John JerkinsTo: Shirley ParkSubject: Budget report\nSent: February 23, 20—\nShirley,\nI am working on the annual budget report as you requested. You asked me to have it finished by next Friday; however, it’s taking longer than I thought. Could I have one more week to complete the report? That way I would have time to do a thorough job.\nThank you.\nJohn\nDirections: Respond to the e-mail as if you are Shirley Park. In your e-mail, ask ONE question and give TWO pieces of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "At some jobs, employees are allowed to listen to music while they work. What is your opinion of this? Give reasons or examples to support your opinion."
+  }
+}

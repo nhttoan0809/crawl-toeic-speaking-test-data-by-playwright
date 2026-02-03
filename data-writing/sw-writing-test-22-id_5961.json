@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image155.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image174.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image74.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image75.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image231.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Robert Bremen\nTo: Glenn Cameras Customer Service\nSubject: Product return\nI recently purchased a battery for my camera from your Web site. The online description said that the battery would be compatible with my camera, but it’s the wrong size. What do I need to do to return this battery and get the right one for my camera?\nThanks,\nRobert Bremen\nDirections: Respond to the e-mail as if you are a customer service representative. In your e-mail, give TWO pieces of information and ask ONE question.",
+      "Direction: Read the e-mail below.\nFrom: Bernardo Cruz\nTo: Greenline Taxi Service\nThanks for your phone message telling me that my wallet was found in one of your taxis this morning. You said I can come get it at your main office. Please tell me where this office is located and what I need to do to claim my wallet.\nDirections: Respond to the e-mail as if you work for Greenline Taxi Service. In your e-mail, give TWO pieces of information and ONE instruction."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Why has humor become more important in the modern workplace compared to the past? Give reasons and examples to support your opinion."
+  }
+}

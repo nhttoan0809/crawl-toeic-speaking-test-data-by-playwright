@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image140.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image171.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image18.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image190.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image139.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFROM: EZ Travel, Inc.\nTO: Karl Ionesco\nSUBJECT: Feedback follow-up\nSENT: July 20, 1:16 P.M.\nDear Mr. Ionesco,\nA few days ago, you completed our survey and indicated dissatisfaction with our flight- and hotel-booking services. Please provide details about the problems you experienced so that we can improve our travel services.\nThank you.\nKarin\nEZ Travel, Inc.\nDirections: Respond to the e-mail. In your e-mail, give THREE details.",
+      "Direction: Read the e-mail below.\nFROM: Daniel Zimmerman\nTO: Susan Kahn\nSUBJECT: Workshops\nSENT: January 18, 3:47 P.M.\nDear Ms. Kahn,\nA friend recommended your workshops. I think my colleagues could benefit from more professional development opportunities. Could you tell me about the various workshops you offer?\nThanks,\nDaniel\nDirections: Respond to the e-mail. In your e-mail, give TWO pieces of information and ask ONE question."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Some people believe that it is better to work on a team with the same coworkers for a long period of time. Others believe it is better to regularly change work teams. Which do you agree with? Why?\nGive reasons and examples to support your opinion."
+  }
+}

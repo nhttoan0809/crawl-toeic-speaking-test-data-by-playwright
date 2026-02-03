@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image7.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image111.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image98.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image173.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image135.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: John Dembo, TMR Industries\nTo: Susan Hoffman, TMR Industries\nSubject: Employee awards dinner\nHi Susan,\nI’m coordinating the employee awards dinner this year. I know you’ve done this in the past. Can you tell me about your experience planning previous dinners? Also, I’d appreciate any suggestions that you may have.\nJohn Dembo\nDirections: Respond to the email. In your email, give TWO pieces of information and make ONE suggestion.",
+      "Direction: Read the e-mail below.\nFrom: JRichards@timutelectronics.com\nTo: GPeters@timutelectronics.com\nSubject: Exit interview\nDear Ms. Peters,\nSince you’ll soon be leaving our company for another job, I’d like to meet with you for a brief discussion. To prepare for that meeting, could you send me an e-mail about your experience working here and how the company can improve?\nThanks,\nJessica Richards\nHuman Resources Manager\nDirections: Respond to the e-mail. In your e-mail, give ONE piece of information and make TWO suggestions."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Some companies occasionally arrange social events for employees after the workday. Is this practically beneficial for them? Why or why not? Give reasons and examples to support your opinion."
+  }
+}

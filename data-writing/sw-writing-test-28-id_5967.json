@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image159.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image203.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image65.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image182.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image194.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Eagle Fitness Center\nTo: Glendale Apartment Residents\nSubject: Relocation of Eagle Fitness Center\nSent: May 3, 01:20 P.M.\nDear residents,\nWe are scheduled to relocate our fitness center closer to your apartment complex and hope to provide better service to you. If you have any good ideas about how we can improve our facilities, please let us know. We will try to apply them to our fitness center.\nThank you,\nEagle Fitness Center\nDirections: Respond to the e-mail as if you are a resident in the Glendale apartment complex. In your e-mail, give TWO suggestions regarding the facilities and ask one question.",
+      "Direction: Read the e-mail below.\nFrom: Alpha Tours\nTo: Advertising List Subject: Package Family Tour\nSent: July 3, 12:45 P.M\nAlpha Tours is offering a family package to Bali for this upcoming summer vacation. Our package includes hotel accommodation, airfare, and much more. For more information, please contact us via email at touragent@joy.com\nDirections: Respond to the e-mail as if you are a customer that is interested in the package. In your e-mail, ask for three pieces of information about the package tour."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "There are some people who like to work alone. Others prefer to work with coworkers. What are some advantages and disadvantages of working with coworkers in a team? Give specific reasons and examples to support your opinion."
+  }
+}

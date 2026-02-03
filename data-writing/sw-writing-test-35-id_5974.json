@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image47.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image181.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image95.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image212.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image210.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Jennifer Watson\nTo: Slick Shoes Customer Support\nSubject: Wrong Order Received\nDear Customer Support,\nI recently ordered a pair of black, high-heeled shoes from your website. However, I received a pair of work boots instead. Could you help me get the correct order?\nThank you,\nJennifer Watson\nDirections: Respond to the e-mail, as if you are a representative at the customer support. In your e-mail, give ONE piece of information and make TWO requests.",
+      "Direction: Read the e-mail below.\nFrom: Tony Anderson\nTo: Deena Thompson\nSubject: Items Needed for Upcoming Meeting\nDear Deena,\nAs you know, representatives from our Malaysian branch will be visiting for an important meeting. There might be a presentation during this meeting. Could you let me know what items you’ll need for it?\nPlease get back to me at your earliest convenience.\nRegards,\nTony\nDirections: Respond to the e-mail as if you are a staff member in the company. In your e-mail, make ONE request and give TWO pieces of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you agree or disagree with the following statement: A good leader must have a strong team to be successful. Give reasons and examples to support your opinion."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image5.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image74.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image72.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image59.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image62.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Gayle Owens, Partner, Temping Agency\nTo: Aidan Smith, Operator, Grayling Exports\nSubject: Any vacancies?\nSent: March 23, 5:21 PM.\nDear Mr. Aidan Smith,\nHello! I was speaking with your associate, Paul Baker, who told me that you might need some temping staff over summer. We have some excellent people available at the moment with expertise in a wide range of fields.\nPlease let me know if we can help you with anything.\nFaithfully,\nGayle OwensDirections: Respond to the email as if you are Aidan Smith. In your email, make TWO requests for temping staff.",
+      "Respond to an email\nFrom: Ava Taylor, Secretary to the President\nTo: All employees\nRe: Staff meeting\nSent: August 7, 9:03 A.M.\nGood morning!\nRemember that our monthly staff meeting will be held tomorrow in conference room 2. The meeting starts at 3 o’clock and is expected to last an hour. I hope to see you all there tomorrow.\nThank you,\nAva Taylor\nDirection: Respond to the email as if you are a member of the staff. In your email, make THREE requests related to the meeting."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nDo you agree or disagree with the following statement? “Companies should give each employee the same benefits package.” Use specific reasons and examples to support your opinion."
+  }
+}

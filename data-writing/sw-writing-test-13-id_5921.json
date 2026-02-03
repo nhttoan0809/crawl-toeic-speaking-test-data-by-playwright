@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image10.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image55.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image46.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image44.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image36.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Oscar Wolfe\nTo: Jack’s Online Hardware\nSubject: Malfunctioning drill\nSent: June 12, 10:14 A.M.\nThe power drill I bought from you on the Internet last month is not working well anymore. It turns on, but it doesn’t drill as efficiently as it used to. I have to push very hard to make it cut into the wood. It’s just not functioning like it should. Help me please!\nOscar Wolfe\nDirections: Respond to the e-mail as if you are a customer service worker at Jack's Online Hardware. In your e-mail, give TWO instructions to handle the problem and make ONE suggestion about maintaining this tool.",
+      "Respond to an email\nFrom: James Parker, Office Manager\nTo: All employees\nSubject: Moving offices\nSent: August 16, 2:35 P.M.\nWe are going to be moving our current office to another section of this building from Monday to Wednesday next week. I would like all staff members to be involved in this process. Please tell me on which of these days you can participate.\nThank you,\nJames\nDirections: Respond to the email as if you are an employee of James Parker. In your email, suggest ONE time that you would like to participate and ask TWO questions about the move."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nThese days, people think companies ought to do something extra for their employees. What should a company do to ensure the loyalty of its employees? Give reasons and examples to support your opinion."
+  }
+}

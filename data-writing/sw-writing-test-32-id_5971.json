@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image158.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image87.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image221.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image72.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image164.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Technical support team\nTo: All employees\nSubject: Internet Access Issues\nHello everyone,\nWe’ve been informed that some of you are having trouble accessing the Internet on company computers. To help us fix this issue, please let us know if you’ve encountered such problems. Share a detailed description of the problem and the steps you took before it occurred.\nThank you,\nTechnical Support Team\nJennifer White\nDirections: Directions: Respond to the e-mail as if you are a staff member in the company. In your e-mail, give TWO pieces of information and ask ONE question.",
+      "Direction: Read the e-mail below.\nFrom: Kathryn Fogle\nTo: Joey Longwood\nSubject: End of Training Cycle Staff Party\nDear Joey,\nAs you know, we are finishing up our current training cycle in the next few days. I think it would be nice to have a party to celebrate and give everyone a chance to get to know each other better. Do you have any suggestions for the event?\nThank you,\nKathryn\nDirections: Respond to the e-mail as if you are Joey Longwood. In your e-mail, make TWO suggestions and ask ONE question."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Who is more responsible for a child’s academic success or failure at school: parents or teachers? Give reasons and examples to support your opinion."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image104.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image216.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image52.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image85.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image192.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Meredith Scott\nTo: Aura Catering\nSubject: Party Catering Services\nHello,\nI’m planning a party for my son’s graduation in a couple of weeks and am looking for a caterer. Could you tell me more about the services you offer?\nThanks,\nMeredith\nDirections: Respond to the e-mail as if you are a staff member in the catering service. In your e-mail, give ONE piece of information and make TWO requests.",
+      "Direction: Read the e-mail below.\nFrom: The Hive\nTo: Serena Blake\nSubject: We Value Your Feedback\nHello,\nWe’re looking to improve our restaurant and would love to hear from you. Could you please share some feedback from your last visit to The Hive? We’d like to know your thoughts on the service, food, and overall experience. Any suggestions would be greatly appreciated.\nThank you for your time.\nDirections: Respond to the e-mail as if you are a customer of the restaurant. In your e-mail, give TWO pieces of information and make ONE suggestion."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you think the best option after graduating from high school is to work or travel instead of going to university? Give reasons and examples to support your opinion."
+  }
+}

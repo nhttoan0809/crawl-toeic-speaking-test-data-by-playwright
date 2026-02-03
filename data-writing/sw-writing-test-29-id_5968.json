@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image217.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image19.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image84.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image165.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image127.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Luis\nTo: Michelle\nSubject: Hotel advice\nSent: February 10, 11:31 P.M.\nHi, Michelle.\nHow have you been? I hope you are fine.\nI am scheduled to go on a business trip next month, and I will stay at the SKY Hotel. I heard that you stayed there last time. How was the hotel?\nIf you could give me some information on the hotel, I would really appreciate it.\nRegards, Lui\nDirections: Respond to the e-mail. In your e-mail, include THREE inconvenient details.",
+      "Direction: Read the e-mail below.\nFrom: Jeff\nTo: SKY Institute\nSubject: Part-time job\nSent: May 20, 09:31 Α.Μ.\nTo whom it may concern:\nI saw your job opening on the AVD Web site, and I am interested in the part-time job.\nIf you give me a chance, I'd like to do the part-time job at your institute to improve my work skills.\nHowever, I cannot find any information on your institute, so I'd appreciate it if you could send me some information regarding it.\nThank you for your time and consideration in this matter. I look forward to your reply.\nBest Regards,\nJeff\nDirections: Respond to the e-mail. In your e-mail, give TWO pieces of information about the SKY Institute and ONE suggestion for applying for the part-time job."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "\"Praising is the best way to motivate employees.\"\nDo you agree or disagree with the statement above?"
+  }
+}

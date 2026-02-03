@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image39.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image32.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image58.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image51.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image28.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Bill Britten, Teachers’ Association Chairman\nTo: TA Members\nSubject: Summer Concert Participant Recruitment\nSent: May 28, 3:45 PM.\nWe're going to hold our annual summer concert festival from July 7 to 11. If you have any students interested in playing in our orchestra, please give us their names and the instruments they play so they can join in this wonderful event. Please reply by e-mail no later than June 6. Thanks in advance for your assistance.\nDirections: Respond to the e-mail as if you are a member of the Teachers’ Association. In your e-mail, ask TWO questions and give ONE piece of information about the event.",
+      "Respond to an email\nFrom: P. Spata\nTo: A. Means\nSubject: Welcome\nSent: November 9, 4:08 P.M.\nWelcome!\nI'm happy to have you in our department. Please tell me if there is anything I can do to make your transition here more comfortable. And let me know if you have any questions about working in our office.\nDirections: Respond to the e-mail as if you are A. Means. In your e-mail, ask TWO questions about working in the new office and make ONE request."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nSome workers must work at night. What are the advantages and disadvantages of night-shift work? Give reasons and examples to support your opinion."
+  }
+}

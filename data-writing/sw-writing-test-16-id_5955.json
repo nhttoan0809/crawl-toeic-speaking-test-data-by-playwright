@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image10.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image153.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image196.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image48.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image56.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFROM: Liza Aluko\nTO: Library members\nSUBJECT: Volunteers needed for book sale\nSENT: August 8, 2:01 P.M.\nOur library is looking for volunteers to help with the book sale coming up this weekend. We need individuals to help in all areas. If you’re interested, please tell us how you’d like to help with the book sale. Let me know if you have any questions.\nDirections: Respond to the e-mail. In your e-mail, give ONE piece of information and ask TWO questions.",
+      "Direction: Read the e-mail below.\nFROM: John Dembo, TMR Industries\nTO: Susan Hoffman, TMR Industries\nSUBJECT: Employee awards dinner\nSENT: April 5, 6:00 P.M.\nHi Susan,\nI’m coordinating the employee awards dinner this year. I know you’ve done this in the past. Can you tell about your experience planning previous dinners? Also, I’d appreciate any suggestions that you may have.\nJohn Dembo\nDirections: Respond to the e-mail. In your e-mail, give TWO pieces of information and make ONE suggestion."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you think it is important for high school students to take a class on public speaking? Why or why not?\nGive reasons and examples to support your opinion."
+  }
+}

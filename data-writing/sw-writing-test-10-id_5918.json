@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image37.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image20.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image7.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image35.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image25.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: M. White, Manager, Digby's Fashion Outlet\nTo: L. Partridge\nSubject: Something wrong?\nSent: December 13, 4:21 PM.\nDear Ms. L. Partridge,\nI received your phone message this morning about there being some problems with the dress you bought from our store last month. Please tell me about these issues in more detail whenever it is convenient.\nFaithfully,\nM. White\nDirections: Respond to the email as if you are L. Partridge. In your email, outline THREE problems with the dress.",
+      "Respond to an email\nFrom: D. Walker, Director, Peters Shipping\nTo: Z. Lee, Purchasing Manager, Norville Supplies\nSubject: Our service\nSent: January 17, 4:12 PM.\nDear Mr. Lee,\nI understand you tried to contact me this morning to discuss improvements you believe we could make to our services. If you'd still like to give me some feedback on how we could perform better, please respond to this email.\nYours,\nD. Walker\nDirections: Respond to the email as if you are Z. Lee. In your email, make TWO suggestions about how the company could improve its services."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nManaging a team can be a very difficult job. In your opinion, what qualities make a good boss? Use reasons and examples to support your answer."
+  }
+}

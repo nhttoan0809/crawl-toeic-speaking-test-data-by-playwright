@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image81.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image22.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image161.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image123.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image132.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Raymond Steele\nTo: Wentworth Community Center\nSubject: Information about Volunteer Program\nDear Wentworth Community Center,\nI found out from your website that you have a volunteer program for kids. I’m looking for a program for my four-year-old daughter, and yours seems like something she might enjoy. Could you provide me with more details about the program?\nThank you,\nRaymond\nDirections: Respond to the e-mail as if you are an employee from the Wentworth Community Center. In your e-mail, provide TWO pieces of information and ask ONE question.",
+      "Direction: Read the e-mail below.\nFrom: Paul Franco\nTo: Teala Sandars\nSubject: Your Real Estate Brochure Designer\nDear Teala,\nI want to create a great brochure for a client. I was impressed by the real estate brochure you used and was wondering if you could tell me which company made it for you, if it’s not too much trouble.\nThanks,\nPaul\nDirections: Respond to the e-mail as if you are Teala Sandars. In your e-mail, give THREE pieces of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you agree or disagree with the following statement: Limiting time spent on digital platforms such as email or social media is a good way to reduce stress in life? Give reasons and examples to support your opinion."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image66.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image60.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image195.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image32.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image63.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFROM: Jason Vornas, Best Vacation Rentals\nTO: Pearl Seine\nSUBJECT: Vacation rental inquiry\nSENT: March 4, 10:01 A.M.\nThank you for expressing interest in our vacation rental houses. If you provide details about what you’re looking for, we can suggest rental houses that would fit your needs. We’re happy to answer any questions.\nDirections: Respond to the e-mail as if you are looking for a vacation rental house. In your e-mail, give TWO pieces of information and ask ONE question.",
+      "Direction: Read the e-mail below.\nFROM: Piero Caggia\nTO: artlessons@ikedasartstudio.com\nSUBJECT: Art lessons\nSENT: August 17, 10:30 A.M.\nHello,\nI saw your advertisement about art lessons on the Ikeda’s Art Studio Web site. I am interested in lessons for my child. Could you tell me about your qualifications and more about the lessons you provide? Let me know if you have any questions.\nThanks,\nPiero Caggia\nDirections: Respond to the e-mail as if you are the art instructor. In your e-mail, give TWO pieces of information and ask ONE question."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "When considering a change of career, do you think it is important to get advice from other people?\nWhy or why not? Support your opinion with reasons and examples."
+  }
+}

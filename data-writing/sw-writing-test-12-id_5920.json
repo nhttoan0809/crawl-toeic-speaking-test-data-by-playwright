@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image53.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image15.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image29.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image61.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image1.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Ken Smith\nTo: Aaron Devlin, President, First Insurance Agency\nSubject: Interview .\nSent: March 29, 8:16 A.M.\nDear Mr. Devlin,\nI have a job interview scheduled for next Monday at 3:00 P.M. However, I am afraid there have been some changes in my current schedule, so I have to work until late at night that day. Could you possibly reschedule my interview date? I look forward to meeting you soon.\nBest regards,\nKen Smith\nDirections: Respond to the e-mail as if you are Aaron Devlin. In your e-mail, suggest TWO possible times for holding the interview and request ONE item that Ken Smith should bring with him.",
+      "Respond to an email\nFrom: Randy Emerick, Assistant to Vice-President\nTo: All staff\nSubject: Vice-president's retirement party\nSent: January 27, 1:15 P.M.\nVice-President Jerry Silveria’s retirement party will take place at the Grand Traverse Resort on February 9 at 7:00 P.M. We are asking that employees help with preparations for the party, such as decorations, setting up tables, and so on.\nDirections: Respond to the e-mail as if you are an employee at this company. In your e-mail, ask TWO questions and make ONE suggestion about organizing the party."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nSome people like taking one long vacation each year. Others enjoy taking several shorter vacations. Which do you prefer? Use specific reasons and examples to explain your choice."
+  }
+}

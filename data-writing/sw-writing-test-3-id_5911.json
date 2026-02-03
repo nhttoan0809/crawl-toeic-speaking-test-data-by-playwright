@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image66.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image68.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image26.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image73.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image31.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Steven Appleby\nTo: Martha SimonSubject: Small Business Magazine\nSent: June 11, 20—\nDear Ms. Simon:\nI work for Small Business Magazine. I am writing an article about small-business owners in your city, and I would like to interview you for the article. Would you be available to meet with me sometime next week?\nThank you.\nSteven Appleby\nDirections: Respond to the e-mail as if you are Martha Simon. Say ONE time you are available and ask TWO questions.",
+      "Respond to an email\nFrom: Samantha Hawkins\nTo: Hampton Human Resources\nSubject: Positions at Hampton\nSent: August 10, 20—\nDear Sir or Madam,\nI am interested in applying for a position at Hampton Inc. I recently graduated from the university and am interested in any openings you may have in your Marketing Department. If you have any positions open, please let me know what they are and how I can apply.\nThank you.\nSamantha Hawkins\nDirections: Respond to the e-mail as if you are a human resources officer at Hampton, Inc. In your e-mail, ask ONE question and give TWO pieces of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "What are the advantages or disadvantages of living near work? Give reasons or examples to support your opinion."
+  }
+}

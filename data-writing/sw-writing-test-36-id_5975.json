@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image188.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image207.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image202.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image9.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image208.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Michael Nguyen\nTo: Sarah Lee\nSubject: Car Repair Shop Recommendation\nHi Sarah,\nI remember you mentioned getting your car fixed recently. I’m looking for a good car repair shop, and I was wondering if you could recommend the one you used. Could you give me some details about it?\nThanks,\nMichael\nDirections: Respond to the e-mail as if you are Sarah Lee. In your e-mail, give THREE pieces of information.",
+      "Direction: Read the e-mail below.\nFrom: John Dembo, TMR Industries\nTo: Susan Hoffman, TMR Industries\nSubject: Employee Awards Dinner\nHi Susan,\nI’m coordinating the employee awards dinner this year and know you’ve handled this in the past. Could you tell me about your experience planning previous dinners? Also, I’d appreciate any suggestions you might have.\nThanks,\nJohn\nDirections: Respond to the e-mail. In your e-mail, give one piece of information and make two suggestions."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you agree or disagree with the following statement: A good leader must be able to ask for help. Give reasons and examples to support your opinion."
+  }
+}

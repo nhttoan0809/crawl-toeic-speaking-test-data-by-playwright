@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image234.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image100.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image232.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image99.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image86.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Hopkins Bookstore\nTo: Customer Mailing List\nSubject: Customer rewards program\nDear Customer,\nHopkins Bookstore is launching a Customer Rewards Program next month. Shoppers will earn rewards points on every purchase, and they will be able to use these points to receive free merchandise. Please let us know if you have any questions about this program.\nHopkins Bookstore\nDirections: Respond to the e-mail. In your e-mail, give ONE piece of information and ask TWO questions.",
+      "Direction: Read the e-mail below.\nFrom: Lucas Brent, Manager\nTo: Customer Service Department\nSubject: Common customer complaints\nHi everybody,\nI’m planning to train some new customer service employees. I want them to get a sense of the issues they’re most likely to hear about. What is the most common customer complaint you’ve heard, and how do you typically respond?\nThanks,\nLucas\nCustomer Service Department Manager\nDirections: Respond to the e-mail as if you are a customer service employee. In your e-mail, describe ONE complaint and give TWO pieces of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you prefer working for a newly established company or a well-established company? Give reasons and examples to support your opinion."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image225.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image167.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image163.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image177.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image145.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Michael Dunn, HR Director\nTo: Mariko Yoshida\nSubject: Application for tuition assistance\nThank you for your interest in our company’s program that helps employees pay for educational expenses. Please provide information about the course you wish to take and how it relates to your job and professional development. Let me know if you have any further questions about the program.\nDirections: Respond to the e-mail. In your e-mail, give TWO pieces of information and ask ONE question.",
+      "Direction: Read the e-mail below.\nFrom: Alice Carter\nTo: Tour Operator\nSubject: Request for Information About Group Tour\nDear Tour Operator,\nI am interested in booking a group tour for my family to visit the Grand Canyon. Could you please provide some details about your tour packages, including duration, pricing, and any special offers?\nThank you for your assistance.\nBest regards,\nAlice Carter\nDirections: Respond to the e-mail as if you are a representative from the Tour Operator. In your e-mail, provide TWO pieces of information and make ONE suggestion."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Do you agree or disagree with the following statement? Young people today find it more difficult to achieve early success in their fields. Give reasons and examples to support your opinion."
+  }
+}

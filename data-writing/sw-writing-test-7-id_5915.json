@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image47.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image57.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image34.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image16.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/writing/image21.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Respond to an email\nFrom: Marco Facinni, Marketing Director\nTo: Cherie Black, Marketing Representative\nSubject: Promotion opportunity\nSent: March 23, 5:21 PM\nHello Mr. Black,\nI would like to offer you a promotion to the role of marketing supervisor. You are one of our best performing employees, and I’m sure you can handle this responsibility. This position offers an excellent benefits package. Please contact me soon to let me know your decision.\nRegards,\nMarco Facinni Directions: Respond to the email as if you're the marketing representative. In your email, describe TWO questions you have about the promotion.",
+      "Respond to an email\nFrom: Jenny Bierre, Marketing Manager, HyperCom\nTo: Mailing list\nSubject: Great Off-Peak Plan!!\nSent: August 14, 12:22 P.M.\nDear HyperCom customer,\nHyperCom is offering an amazing new cell phone plan. The Off-Peak Plan is just $15 a month. Users can receive unlimited calling time outside normal business hours. This deal can’t be beaten! Please contact us right away if you have any questions about this great offer.\nYours faithfully,\nJenny Bierre\nMarketing Manager, HyperCom\nDirections: Respond to the email as if you are a customer. In your email, make THREE questions."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "Writing essays\nWhat do you think a candidate should do to prepare for a job interview? Use specific examples and details to support your answer."
+  }
+}

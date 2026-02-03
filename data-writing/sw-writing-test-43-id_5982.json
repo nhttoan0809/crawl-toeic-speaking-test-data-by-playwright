@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image34.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image183.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image23.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image49.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image176.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFROM: Electronia Customer Service\nTO: New customer\nSUBJECT: Thank you for your purchase\nSENT: June 9, 10:21 A.M.\nThank you for purchasing a Power Speed printer at Electronia. We hope that you are satisfied with both the printer you bought as well as the customer service you received. If you have any problems with the printer, please contact us via the Internet at our company's homepage. Thank you!\nRespond to the e-mail as if you are a customer. In your e-mail, describe TWO problems that you have had with the printer and make ONE request for information.",
+      "Direction: Read the e-mail below.\nFROM: SMD Ltd.\nTO: Tom Parker, payment officer, Techtonia Solution\nSUBJECT: Overdue payment\nSENT: May 23rd, 4:32 P.M.\nDear Mr. Parker,\nI am writing to you to let you know that we have not received the payment for the orders you made 2 months ago. We were in agreement that the payment would be received by March 20th, but it has not arrived. Please send it as soon as possible to avoid any delays when re-ordering items. I'm looking forward to receiving your early reply.\nRespond to the e-mail as if you are Tom Parker. In your e-mail, make AN apology and ask TWO questions about the overdue payment."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "If your city government had extra funds in the budget, should it spend the money on expanding public transportation or building a music school?\nGive reasons for your choice and explain why it is better than the other option."
+  }
+}

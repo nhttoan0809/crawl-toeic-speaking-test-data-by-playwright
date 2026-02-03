@@ -1,0 +1,23 @@
+{
+  "Item1": {
+    "type": "images",
+    "content": [
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image156.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image136.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image141.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image122.png",
+      "https://s4-media1.study4.com/media/toeic_sw_tests/extra/image185.png"
+    ]
+  },
+  "Item2": {
+    "type": "emails",
+    "content": [
+      "Direction: Read the e-mail below.\nFrom: Mark Johnson\nTo: Facilities Maintenance Team\nSubject: Air Conditioning Issue\nDear Facilities Team,\nI’m writing to let you know that the air conditioning in our office isn’t working properly. It’s been very warm over the past few days, and it’s becoming hard for us to concentrate on work. Could you please check on this issue and let us know what can be done to fix it?\nThank you for your prompt attention.\nBest regards,\nMark Johnson\nDirections: Respond to the e-mail as if you are a member of the Facilities Maintenance Team. In your e-mail, provide TWO pieces of information and make ONE suggestion.",
+      "Direction: Read the e-mail below.\nFrom: Kim Palmer, The Daily Times\nTo: Paul Woods\nSubject: Interview Availability\nMr. Woods,\nWe at the Daily Times would like to interview you for an article about your recently published research. We aim to publish the article in next Sunday’s newspaper, so if you have time today or tomorrow, we can come to your office at your research facility to meet you.\nKim Palmer\nWriter\nThe Daily Times\nDirections: Respond to the e-mail as if you are Paul Woods. In your e-mail, ask TWO questions and provide ONE piece of information."
+    ]
+  },
+  "Item3": {
+    "type": "text_block",
+    "content": "When it comes to the workplace, we normally think we have to go there to work. A lot of us commute to work every day. However, there are some people who work remotely at their homes or away from their offices. What do you think is the reason why some companies permit their employees to work this way?"
+  }
+}
