@@ -85,3 +85,34 @@ Dưới đây là danh sách các file mã nguồn chính và nhiệm vụ của
         "https://study4.com/tests/5937/toeic-sw-speaking-test-29/"
     ];
     ```
+
+## 📝 TOEIC Writing Data Crawler
+
+Bên cạnh dữ liệu Speaking, dự án cũng hỗ trợ thu thập và xử lý dữ liệu cho kỹ năng **Writing**.
+
+### 📂 Cấu trúc & Chức năng Scripts (Writing)
+
+| Tên File | Chức năng (Nhiệm vụ) | Dữ liệu Đầu vào (Input) | Dữ liệu Đầu ra (Output) |
+| :--- | :--- | :--- | :--- |
+| **`urls-writing.js`** | Chứa danh sách các URL gốc của các bài thi TOEIC Writing cần thu thập. | N/A (Hardcoded list). | Array các URL string. |
+| **`scrape-writing.js`** | Script thực hiện việc cào dữ liệu Writing (tương tự `scrape.js` nhưng logic bóc tách riêng cho Writing). | `urls-writing.js`, `state.json`. | Các file JSON thô trong folder `data-writing/`. |
+| **`convert_to_md_writing.js`** | Chuyển đổi JSON Writing sang Markdown với format chuẩn: tách email thành blockquote/code block, format lại essay prompt. | Các file JSON trong `data-writing/`. | Các file Markdown hoàn chỉnh trong folder `data_markdown_writing/`. |
+
+### 🛠 Hướng dẫn chạy (Writing)
+
+Tương tự như Speaking, bạn cần có file `state.json` từ bước đăng nhập trước đó.
+
+1.  **Thu thập dữ liệu Writing**:
+    ```bash
+    node scrape-writing.js
+    ```
+2.  **Chuyển đổi sang Markdown**:
+    ```bash
+    node convert_to_md_writing.js
+    ```
+
+### 📋 Cấu trúc Markdown Output (Writing)
+Script convert sẽ tự động format 3 phần thi của Writing thành các header chuẩn:
+1.  **Write a sentence**: Hiển thị danh sách ảnh.
+2.  **Respond to a written request**: Hiển thị email trong `code block` để giữ nguyên format xuống dòng.
+3.  **Write an opinion essay**: Hiển thị câu hỏi essay trong `blockquote`.
